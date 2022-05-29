@@ -2,12 +2,12 @@
 RESULTS:
 
 SIFT method results:
-The name of the perfect match is "c1e2150520cb798ec63a7e8d0f311e54aba92484.png"
+The name of the perfect match is "c1e2150520cb798ec63a7e8d0f311e54aba92484.png".
 Highest keypoint matches: 290
 
 correlation method results:
-The largest coefficient is 0.1435698
-The name of the perfect match is 9eb02227003257dd455c0e31b8ad8094579b6346.png
+The largest coefficient is 0.1435698.
+The name of the perfect match is "9eb02227003257dd455c0e31b8ad8094579b6346.png"
 
 
 
